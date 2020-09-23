@@ -40,3 +40,4 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+APM-Demo0/package-lock.json
